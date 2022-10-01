@@ -1,0 +1,5 @@
+Hello
+My name is Abhinav Reddy
+I am currently studying at IIT Goa.
+I love coding. 
+Currently I am running git commands.
